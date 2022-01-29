@@ -1,7 +1,7 @@
 ### Óla! Sou Luiz Felipe
 
 - 📘 Programador Autodidata
-- 🕹️ Front-end
+- 🕹️ Programador por Natureza
 - 📒 Estudando JavaScript
 - ❤️ Amante de Tencnologia
 
