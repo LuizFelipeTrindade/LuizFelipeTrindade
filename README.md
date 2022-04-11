@@ -1,9 +1,10 @@
-### Óla! Sou Luiz Felipe
+### Oi, como vai? esse sou eu :)
 
 - 📘 Programador Autodidata
 - 🕹️ Nerd por Natureza
 - 📒 Estudando JavaScript
 - ❤️ Amante de Tencnologia
+- 🗓️ 15 years :)
 
 <div align="center">
   <a href="https://github.com/LuizFelipeTrindade">
