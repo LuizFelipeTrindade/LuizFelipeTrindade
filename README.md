@@ -1,4 +1,4 @@
-### Oi, como vai? esse sou eu :)
+### Hi, how are you? This is me ;)
 
 - 📘 self-taught developer
 - 🕹️ Love games
